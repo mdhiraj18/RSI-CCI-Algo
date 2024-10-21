@@ -1,3 +1,7 @@
+// Please check this attached screenshot for better understanding: 
+// https://1drv.ms/i/c/38c893c5799c163b/EXtPg0jH8CdBmY0BcaYhK2sBLQy0garvMxn5eTYtK4sXLQ?e=mUxf9g
+
+
 import axios from 'axios';
 import WebSocket from 'ws';
 
